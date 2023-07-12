@@ -1,1 +1,3 @@
-# the-fy1-game.github.io
+# Welcome to The FY1 Game!
+
+More info coming soon
